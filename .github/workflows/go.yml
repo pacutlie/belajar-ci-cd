@@ -36,4 +36,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
           push: true
-          tags: docker push pacutlie/belajar-ci-cd
+          tags: docker push pacutlie/belajar-ci-cd:tagname
